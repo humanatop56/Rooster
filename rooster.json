@@ -1,0 +1,14 @@
+{
+  "backendUrls": [
+    "http://roosterapk.com",
+    "http://roosterify.com",
+    "http://azhdarsazanejavan.com"
+  ],
+  "resistanceUrl": [
+    "http://roosterapk.com/rooster.json",
+    "http://roosterify.com/rooster.json",
+    "http://azhdarsazanejavan.com/rooster.json",
+    "https://raw.githubusercontent.com/sileacorina2/Peach/main/rooster.json"
+  ],
+  "validationPeriod": 720000
+}
